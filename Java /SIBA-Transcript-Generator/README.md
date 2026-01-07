@@ -55,6 +55,7 @@ Project/
 │           ├── GenerateIcon.png
 │           └── IBALogo.png
 ├── Sample Transcripts/
+│   └── dummyTranscript.pdf
 ├── Final Report.pdf
 └── README.md
 ```
