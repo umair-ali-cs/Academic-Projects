@@ -36,6 +36,7 @@ Project/
 │   ├── Main.java
 │   ├── FirstFrame.java
 │   ├── GetDepartments.java
+│   ├── info.java
 │   ├── Interfaces/
 │   │   ├── FirstInterface.java
 │   │   ├── SecondInterface.java
