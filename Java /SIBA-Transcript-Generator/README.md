@@ -41,17 +41,18 @@ Project/
 │   │   ├── SecondInterface.java
 │   │   ├── ThirdInterface.java
 │   │   └── FourthInterface.java
-│   ├── Components/
-│   │   ├── Box.java
-│   │   ├── Button.java
-│   │   ├── DropDownLists.java
-│   │   ├── Input.java
-│   │   ├── Label.java
-│   │   ├── Logo.java
-│   │   └── MainButtons.java
-│   └── Images/
-│       └── IBALogo.png
-│
+│   └── Components/
+│       ├── Box.java
+│       ├── Button.java
+│       ├── DropDownLists.java
+│       ├── Input.java
+│       ├── Label.java
+│       ├── Logo.java
+│       ├── MainButtons.java
+│       ├── MainLogo.java
+│       └── Images/
+│           ├── GenerateIcon.png
+│           └── IBALogo.png
 ├── Sample Transcripts/
 ├── Final Report.pdf
 └── README.md
