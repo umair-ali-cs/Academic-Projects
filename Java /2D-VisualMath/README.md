@@ -70,5 +70,3 @@ A **2D graph plotting calculator** built in Java Swing that allows users to visu
 
 ## Contributors
 - Umair Ali 
-
-- Umair Ali (023-24-0106)
